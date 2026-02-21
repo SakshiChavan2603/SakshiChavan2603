@@ -28,7 +28,11 @@
 
 ### **Backend Development**
 ![Java](https://img.shields.io/badge/Core%20Java-blue?style=for-the-badge&logo=java&logoColor=white)
-![Java](https://img.shields.io/badge/Advanced%20Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### **Database**
@@ -59,8 +63,7 @@
 
 - 📧 Email: **sakshichavan2603@gmail.com**
 - 💼 LinkedIn: **https://linkedin.com/in/sakshi-chavan**
-- 🚀 Portfolio (Coming Soon)
-
+  
 ---
 
 ⭐ *“Keep learning, keep building, and trust your journey.”*
