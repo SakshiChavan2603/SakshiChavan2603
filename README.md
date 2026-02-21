@@ -61,8 +61,8 @@
 
 ## 🌐 Connect With Me
 
-- 📧 Email: **sakshichavan2603@gmail.com**
-- 💼 LinkedIn: **https://linkedin.com/in/sakshi-chavan**
+- 📧 Email: **sakshichavan2606@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/sakshichavan2606/**
   
 ---
 
