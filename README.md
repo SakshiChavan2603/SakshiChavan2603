@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sakshi Chavan</h1>
-<h3 align="center">Full-Stack Developer | Java | React | MySQL</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sakshi+Chavan;Full+Stack+Developer;Java+%7C+React+%7C+MySQL;Always+Learning+New+Things" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SakshiChavan2603&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -9,11 +10,11 @@
 
 ## 👩‍💻 About Me  
 
-🎓 Final-year Computer Science & Engineering student  
+🎓 **Computer Engineering Graduate**  
 💻 Passionate about **Full-Stack Development** using Java, React & MySQL  
-🚀 Learning & building real-world projects with clean architecture  
-📈 Consistent learner with strong debugging and problem-solving skills  
-💡 Interested in **Web Apps, REST APIs, UI/UX & scalable backend systems**
+🚀 Focused on building scalable and user-friendly web applications  
+🔍 Strong interest in **REST APIs, backend systems, UI/UX & cloud technologies**  
+📈 Dedicated to continuous learning and improving development skills  
 
 ---
 
@@ -32,6 +33,7 @@
 
 ### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### **Tools & Platforms**
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
