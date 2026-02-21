@@ -1,74 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sakshi Chavan</h1>
-<h3 align="center">Java | Full-Stack Developer</h3>
+<h3 align="center">Full-Stack Developer | Java | React | MySQL</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SakshiChavan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SakshiChavan2603&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me  
 
-🎓 Computer Engineering Student passionate about **Full-Stack Development, AI, Machine Learning, and Modern Web Technologies**.
-
-🌱 Currently building projects in **Spring Boot, React, Java, MySQL, Hibernate**.
-
-💡 Actively improving **DSA, OS, DBMS, CN** for placements.
-
-✨ Curious about **AI-powered systems** & real-world problem solving.
+🎓 Final-year Computer Science & Engineering student  
+💻 Passionate about **Full-Stack Development** using Java, React & MySQL  
+🚀 Learning & building real-world projects with clean architecture  
+📈 Consistent learner with strong debugging and problem-solving skills  
+💡 Interested in **Web Apps, REST APIs, UI/UX & scalable backend systems**
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack  
 
-### **Programming Languages**
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
+### **Frontend Development**
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
-### **Web Development**
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge)
+### **Backend Development**
+![Java](https://img.shields.io/badge/Core%20Java-blue?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Advanced%20Java-orange?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge)
+### **Database**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **AI / ML**
-![ML](https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
-![Scikit](https://img.shields.io/badge/Scikit--Learn-f7931e?style=for-the-badge)
-
-### **Tools**
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge)
+### **Tools & Platforms**
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshiChavan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiChavan&theme=tokyonight" height="160"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SakshiChavan2603&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshiChavan2603&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
-- 🌍 Portfolio: https://your-portfolio-link.com  
+- 📧 Email: **sakshichavan2603@gmail.com**
+- 💼 LinkedIn: **https://linkedin.com/in/sakshi-chavan**
+- 🚀 Portfolio (Coming Soon)
 
 ---
 
-⭐ *"Relax and discover the world of opportunities."*
+⭐ *“Keep learning, keep building, and trust your journey.”*
